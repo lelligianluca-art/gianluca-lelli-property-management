@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lelligianluca-art.github.io/gianluca-lelli-property-management/sitemap.xml
